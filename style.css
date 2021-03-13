@@ -1,0 +1,25 @@
+body{
+  background-color:rgb(158, 201, 214);
+}
+#tutorial_text, #fun{
+  text-align: center;
+  font-size: 30px;
+  font-weight: 900;
+  position: absolute;
+  left: 0;
+  top: 15%;
+  right: 0;
+  bottom: 0;
+  margin: 0 auto;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.lottie_container {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  margin: 0 auto;
+}
+
